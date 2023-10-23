@@ -1,5 +1,5 @@
 <h1  >Countries Api <h1>
-
+### Description : A resource for accessing essential information about countries. It provides data such as population, area, capital, languages, and more.
 
 <img width="50%" src="./public/countries-data.png" width="128"/>
 
