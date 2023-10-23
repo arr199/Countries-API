@@ -1,6 +1,7 @@
 <h1 align="center" >Countries Api <h1>
 
-![Screenshot](./public/countries-data.png)
+
+<img src="./public/countries-data.png" width="128"/>
 
 ### Website : https://countries-datax.netlify.app/
 
