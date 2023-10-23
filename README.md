@@ -1,4 +1,4 @@
-<h1 align="center" >Countries Api <h1>
+<h1  >Countries Api <h1>
 
 
 <img width="50%" src="./public/countries-data.png" width="128"/>
