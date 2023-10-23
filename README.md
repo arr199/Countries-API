@@ -1,6 +1,6 @@
 <h1 align="center" >Countries Api <h1>
 
-[Screenshot](./public/countries-data.png)
+![Screenshot](./public/countries-data.png)
 
 ## Features
 
