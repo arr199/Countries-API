@@ -1,11 +1,10 @@
 <h1 align="center" >Countries Api <h1>
 
-- [Screenshot](./public/countries-data.png)
+[Screenshot](./public/countries-data.png)
 
 ## Features
 
  Users are able to: 
-
 - See all countries from the API on the homepage.
 - Search for a country using an `input` field.
 - Filter countries by region.
