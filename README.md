@@ -28,7 +28,7 @@
 - Clone the repository
 
 ```sh
-git clone https://github.com/arr199/React/tree/main/Front-End-Mentor/03-Countries-API
+git clone https://github.com/arr199/Countries-API
 ```
 
 - Install dependencies
