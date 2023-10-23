@@ -1,4 +1,4 @@
-<h1  >Countries Api <h1>
+<h1>Countries Api </h1>
 
 ### Description: A resource for accessing essential information about countries. It provides data such as population, area, capital, languages, and more. ###
 
