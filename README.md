@@ -20,7 +20,7 @@ It provides data such as population, area, capital, languages, and more.
 
 ## Built with
 
-- [React](https://react.dev/) - A javaScript library that allows you to create user interfaces.
+- [React](https://react.dev/) - A JavaScript library that allows you to create user interfaces.
 - [TypeScript](https://www.typescriptlang.org/) -  A strongly typed programming language that builds on JavaScript.
 - [Tailwind-css](https://tailwindcss.com/) - A utility-first CSS framework.
 - [React-Router](https://reactrouter.com/en/main) - A tool that allows you to create routes, navigation, and page-switching in your React web applications.
