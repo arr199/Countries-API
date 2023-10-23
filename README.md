@@ -3,7 +3,7 @@
 
 <img width="50%" src="./public/countries-data.png" width="128"/>
 
-### Website : https://countries-datax.netlify.app/
+### Website : https://countries-datax.netlify.app/ ###
 
 ## Features
 
